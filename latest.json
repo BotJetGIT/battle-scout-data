@@ -1,7 +1,7 @@
 {
  "kind": "battle-scout-latest",
  "file": "battle-scout-data.json",
- "built": "2026-10-26T07:13:28.112Z",
+ "built": "2026-10-28T04:39:21.722Z",
  "regulation": {
   "name": "Regulation Set M-C",
   "short": "M-C",
@@ -13,7 +13,9 @@
  "month": "September 2026",
  "battles": 1631943,
  "pokemon": 277,
- "model": "2026-10-23T18:51:16.613Z",
+ "model": "2026-10-28T03:05:14.551Z",
  "modelGames": 99682,
+ "winModel": "2026-10-28T03:05:14.551Z",
+ "bringModel": "2026-10-28T03:05:14.551Z",
  "minApp": "1.4"
 }
